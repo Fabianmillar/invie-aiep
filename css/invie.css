@@ -25,7 +25,7 @@ body {
     border-radius: 5px;
     border: none;
     background: #fd324e;
-    color: white;
+    color: red;
     padding: 7px;
 }
 
@@ -57,7 +57,7 @@ body {
 
 .portada {
     background-image: url('http://4.bp.blogspot.com/-5N_bFzya4Ec/VaY6MBFfSsI/AAAAAAAAB5k/HDUprXyQkZQ/s1600/naruto%2Banime.JPG');
-    color: white;
+    color: blue;
     padding: 20px;
 }
 
@@ -142,7 +142,7 @@ body {
 }
 
 .contacto a {
-    color: white;
+    color: yellow;
     text-decoration: none;
     margin: 10px 10px 10px 0;
 }
@@ -245,4 +245,4 @@ td {
           transform: translate(0,0);
         }
       }
-      /* // [END ocanvas] */
+     
