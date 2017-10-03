@@ -213,6 +213,7 @@ td {
     border: 1px solid #273b47;
     border-collapse: collapse;
 }
+}
 @media (min-width: 500px) {
         /* If the screen is wider then 500px, use Flexbox */
         .container {
